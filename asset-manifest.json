@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/YouTube/static/css/main.d2006460.css",
+    "main.js": "/YouTube/static/js/main.c217f95b.js",
+    "static/js/453.05e4e279.chunk.js": "/YouTube/static/js/453.05e4e279.chunk.js",
+    "static/media/Moon.mp4": "/YouTube/static/media/Moon.2c92d01256c8f29e1b68.mp4",
+    "static/media/logo.svg": "/YouTube/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/YouTube/index.html",
+    "main.d2006460.css.map": "/YouTube/static/css/main.d2006460.css.map",
+    "main.c217f95b.js.map": "/YouTube/static/js/main.c217f95b.js.map",
+    "453.05e4e279.chunk.js.map": "/YouTube/static/js/453.05e4e279.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2006460.css",
+    "static/js/main.c217f95b.js"
+  ]
+}
