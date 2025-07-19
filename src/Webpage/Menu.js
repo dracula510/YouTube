@@ -85,7 +85,7 @@ const Menu = () => {
                     <div className={classes.Profile}>
                         <div className={classes.Create}>
                             <img src={Plus} />
-                            <p>Create</p>
+                            <p>Creat</p>
                         </div>
 
                         <div className={classes.Noti}>
